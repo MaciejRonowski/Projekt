@@ -14,9 +14,9 @@ Notatnik z Emoji to prosta, lecz funkcjonalna aplikacja desktopowa stworzona w j
 - ℹ️ Licznik znaków, słów i linii w czasie rzeczywistym
 
 ## 🖼️ Zrzuty ekranu
-![Wygląd aplikacji 1](./images/screen1.jpg)
-![Wygląd aplikacji 2](./images/screen2.jpg)
-![Wygląd aplikacji 3](./images/screen3.jpg)
+![Wygląd aplikacji 1](./images/screen1.png)
+![Wygląd aplikacji 2](./images/screen2.png)
+![Wygląd aplikacji 3](./images/screen3.png)
 
 ## 🚀 Uruchamianie projektu
 
