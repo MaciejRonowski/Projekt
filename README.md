@@ -1,7 +1,7 @@
 # Notatnik – Aplikacja Windows Forms w C#
 ## Opis projektu
 
-Notatnik z Emoji to prosta, lecz funkcjonalna aplikacja desktopowa stworzona w języku C# z użyciem Windows Forms. Umożliwia tworzenie i edytowanie plików tekstowych z dodatkowymi funkcjami personalizacji wyglądu, drukowania oraz wstawiania emoji. Projekt został zrealizowany w ramach przedmiotu **Podstawy Programowania**.
+Notatnik to prosta, lecz funkcjonalna aplikacja desktopowa stworzona w języku C# z użyciem Windows Forms. Umożliwia tworzenie i edytowanie plików tekstowych z dodatkowymi funkcjami personalizacji wyglądu, drukowania oraz wstawiania emoji. Projekt został zrealizowany w ramach przedmiotu **Podstawy Programowania**.
 
 ## 🎯 Główne funkcje
 
