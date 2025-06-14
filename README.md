@@ -46,4 +46,3 @@ Notatnik to prosta, lecz funkcjonalna aplikacja desktopowa stworzona w języku C
 Projekt stworzony przez **Macieja Ronowskiego** 
 
 ---
-*Możesz używać, rozwijać i modyfikować ten projekt na własne potrzeby edukacyjne.*
